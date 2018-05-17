@@ -1,0 +1,139 @@
+PODS:
+  - ACEDrawingView (2.2.1)
+  - Alamofire (4.4.0)
+  - CocoaLumberjack (3.4.2):
+    - CocoaLumberjack/Default (= 3.4.2)
+    - CocoaLumberjack/Extensions (= 3.4.2)
+  - CocoaLumberjack/Default (3.4.2)
+  - CocoaLumberjack/Extensions (3.4.2):
+    - CocoaLumberjack/Default
+  - CYLTabBarController (1.14.2)
+  - Differentiator (3.0.2)
+  - DZNEmptyDataSet (1.8.1)
+  - FDFullscreenPopGesture (1.1)
+  - FMDB (2.7.2):
+    - FMDB/standard (= 2.7.2)
+  - FMDB/standard (2.7.2)
+  - GDPerformanceView-Swift (1.2.0)
+  - IQKeyboardManager (5.0.8)
+  - Kingfisher (4.1.1)
+  - MBProgressHUD (0.9.2)
+  - MJRefresh (3.1.15.3)
+  - ObjectMapper (3.1.0)
+  - RxCocoa (4.1.2):
+    - RxSwift (~> 4.0)
+  - RxDataSources (3.0.2):
+    - Differentiator (~> 3.0)
+    - RxCocoa (~> 4.0)
+    - RxSwift (~> 4.0)
+  - RxSwift (4.1.2)
+  - SAMKeychain (1.5.3)
+  - SDWebImage (4.0.0):
+    - SDWebImage/Core (= 4.0.0)
+  - SDWebImage/Core (4.0.0)
+  - SnapKit (4.0.0)
+  - swiftScan (1.1.3)
+  - SwiftyJSON (4.0.0)
+  - SWTableViewCell (0.3.7)
+  - Then (2.3.0)
+  - TZImagePickerController (1.9.8)
+  - "XLPhotoBrowser+CoderXL (1.2.0)":
+    - SDWebImage (~> 4.0.0)
+  - YYKit (1.0.9):
+    - YYKit/no-arc (= 1.0.9)
+  - YYKit/no-arc (1.0.9)
+  - ZYCornerRadius (1.0.2)
+
+DEPENDENCIES:
+  - ACEDrawingView (~> 2.2.1)
+  - Alamofire (~> 4.4.0)
+  - CocoaLumberjack (~> 3.4.1)
+  - CYLTabBarController (~> 1.14.2)
+  - Differentiator (~> 3.0.2)
+  - DZNEmptyDataSet (~> 1.8.1)
+  - FDFullscreenPopGesture (~> 1.1)
+  - FMDB (~> 2.7.2)
+  - GDPerformanceView-Swift (~> 1.2.0)
+  - IQKeyboardManager (~> 5.0.8)
+  - Kingfisher (~> 4.1.1)
+  - MBProgressHUD (~> 0.9.2)
+  - MJRefresh (~> 3.1.15.3)
+  - ObjectMapper (~> 3.1.0)
+  - RxCocoa (~> 4.1.2)
+  - RxDataSources (~> 3.0.2)
+  - RxSwift (~> 4.1.2)
+  - SAMKeychain (~> 1.5.3)
+  - SnapKit (~> 4.0.0)
+  - swiftScan (~> 1.1.3)
+  - SwiftyJSON (~> 4.0.0)
+  - SWTableViewCell (~> 0.3.7)
+  - Then (~> 2.3.0)
+  - TZImagePickerController (~> 1.9.8)
+  - "XLPhotoBrowser+CoderXL (~> 1.2.0)"
+  - YYKit (~> 1.0.9)
+  - ZYCornerRadius (~> 1.0.2)
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - ACEDrawingView
+    - Alamofire
+    - CocoaLumberjack
+    - CYLTabBarController
+    - Differentiator
+    - DZNEmptyDataSet
+    - FDFullscreenPopGesture
+    - FMDB
+    - GDPerformanceView-Swift
+    - IQKeyboardManager
+    - Kingfisher
+    - MBProgressHUD
+    - MJRefresh
+    - ObjectMapper
+    - RxCocoa
+    - RxDataSources
+    - RxSwift
+    - SAMKeychain
+    - SDWebImage
+    - SnapKit
+    - swiftScan
+    - SwiftyJSON
+    - SWTableViewCell
+    - Then
+    - TZImagePickerController
+    - "XLPhotoBrowser+CoderXL"
+    - YYKit
+    - ZYCornerRadius
+
+SPEC CHECKSUMS:
+  ACEDrawingView: fa6e8461682a54db3ac65151474fc77ef7e54fd2
+  Alamofire: dc44b1600b800eb63da6a19039a0083d62a6a62d
+  CocoaLumberjack: db7cc9e464771f12054c22ff6947c5a58d43a0fd
+  CYLTabBarController: 5eac1940e20aa934a609ecec38837da63a41dcfe
+  Differentiator: a87be69eba49ec4ab460c7671143ee3a9eececfd
+  DZNEmptyDataSet: 9525833b9e68ac21c30253e1d3d7076cc828eaa7
+  FDFullscreenPopGesture: a8a620179e3d9c40e8e00256dcee1c1a27c6d0f0
+  FMDB: 6198a90e7b6900cfc046e6bc0ef6ebb7be9236aa
+  GDPerformanceView-Swift: 5f12f13dcdca4cb87f91ef91ba6b50981421c57f
+  IQKeyboardManager: 266cb7b1d11f94a3e71229d77f960f9a1b538e5b
+  Kingfisher: 6793a473357b5dbee42b0068ef203fe8325f259e
+  MBProgressHUD: 1569cf7ace17a8bac47aabfbb8580a49690386d1
+  MJRefresh: b48380ae2b927b46c4ef000de9adb8dc748e1df7
+  ObjectMapper: 20505058f54e5c3ca69e1d6de9897d152a5369a6
+  RxCocoa: d88ba0f1f6abf040011a9eb4b539324fc426843a
+  RxDataSources: cb7c31e652a87ebb919da45f716bbb87b3765f6b
+  RxSwift: e49536837d9901277638493ea537394d4b55f570
+  SAMKeychain: 483e1c9f32984d50ca961e26818a534283b4cd5c
+  SDWebImage: 76a6348bdc74eb5a55dd08a091ef298e56b55e41
+  SnapKit: a42d492c16e80209130a3379f73596c3454b7694
+  swiftScan: ad753846f4292c19a376dd159db035d62b689458
+  SwiftyJSON: 070dabdcb1beb81b247c65ffa3a79dbbfb3b48aa
+  SWTableViewCell: 2a94aadc9d47b2b611fa064566bf57948b95b579
+  Then: ee21c97b85ff6062b9b0080c9abb1eea46743345
+  TZImagePickerController: 3b9413ae5d049b1fdc5b0c720ad283f35b679a50
+  "XLPhotoBrowser+CoderXL": 2bf4036e2af4611b24bde1681e24c64ed01fbe98
+  YYKit: 7cda43304a8dc3696c449041e2cb3107b4e236e7
+  ZYCornerRadius: f0af817be7805b5c63d793042ca7a03f81e14069
+
+PODFILE CHECKSUM: 7da23aaf5e2e50843e656c22972dd5f62a3fa8d5
+
+COCOAPODS: 1.5.0

@@ -1,0 +1,6 @@
+framework module Pods_PimShare {
+  umbrella header "Pods-PimShare-umbrella.h"
+
+  export *
+  module * { export * }
+}
