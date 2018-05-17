@@ -18,7 +18,9 @@ class LYUCMainViewController: LYBaseViewController {
         mainView = LYUCMainView(frame: CGRect.null, superView: self.view)
         mainView?.snp.makeConstraints({ (make) in
             make.left.right.top.bottom.equalToSuperview()
+            
         })
+        print("UC--VC")
     }
 
     override func didReceiveMemoryWarning() {
